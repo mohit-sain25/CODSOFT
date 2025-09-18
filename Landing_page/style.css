@@ -87,6 +87,17 @@ nav a:hover {
     margin-bottom: 15px;
 }
 
+.btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background: #ff7043;
+    color: white;
+    border-radius: 6px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
 footer {
     background: #333;
     color: white;
